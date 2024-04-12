@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Danyaal, a Biomedical Engineering student at UBC's School of Biomedical Engineering.
+I work with UBC's SimPL lab to help understand how concussions impact high-performance atheletes, but I'm also big on cellular engeering and regerative therapeutics research. 
 <!--
 **DanyaalA/DanyaalA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
